@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Seng Pan, studying computer engineering at Sirindhorn International Institute of Technology (SIIT), focusing on AI and exploring AWS cloud solutions. AI is my passion—I even won a prize for my AI project at Simbolo AI Myanmar! Right now, I'm sharpening my Python model-training skills and problem-solving.
+Hi! I'm Seng Pan, studying computer engineering at Sirindhorn International Institute of Technology (SIIT), focusing on AI and exploring AWS cloud solutions. AI is my passion—I even won a prize for my AI project at Simbolo AI Myanmar! Right now, I'm sharpening my Python model-training skills and problem-solving on Data.
 
 Before diving into AI, I worked as a frontend dev with React, HTML, CSS, and JS. Fun fact: I’d rather debug code than think about design—it’s just not my thing!
 
